@@ -1,0 +1,36 @@
+.page-title {
+        color: darkorange
+}
+
+.image-title {
+        color: midnightblue;
+        font-size: 22px;
+        font-weight: bold;
+
+}
+
+#sidebar-title {
+        color: deeppink
+}
+
+#landing-img {
+        width: 50%
+}
+
+img {
+        max-width: 100%
+}
+
+.highlighted {
+        border: 3px solid limegreen;
+}
+
+nav {
+        background-color: #6D6D6D;
+}
+
+@media (max-width: 992px) {
+        nav {
+                background-color: black;
+        }
+}
